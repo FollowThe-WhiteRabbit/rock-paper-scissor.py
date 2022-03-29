@@ -27,7 +27,7 @@ elif player == ("scissaux") :
  if actions_ordinateur == ("feuille") :
    print("gagné vous avez joué",player,"et l'ordinateur a joué",actions_ordinateur,)
  else :
-   print("perdu vous avez joué",player,"et l'ordinateur a joué",actions_ordinateur,)
+   print("c'est perdu vous avez joué",player,"et l'ordinateur a joué",actions_ordinateur,)
 
 
 
